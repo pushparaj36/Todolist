@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         li.innerHTML = `
             <span class="task-text">${taskText}</span>
             <div class="task-buttons">
-                <button class="edit-btn">Edit</button>
+                
                 <button class="delete-btn">X</button>
             </div>
         `;
